@@ -29,6 +29,7 @@ export interface Billboard {
   export interface Size {
     name: string; 
     value: string;
+    id: string; //asta nu din tutorial, eu am improvizat
   }
   
   export interface Color {
